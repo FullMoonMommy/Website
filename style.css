@@ -1,0 +1,104 @@
+/* Hey Teach! */
+* {
+    font-size: 100%;
+  /*  border: 1px solid red;*/
+    box-sizing: border-box;
+    margin: 0;
+    line-height: 1;
+}
+
+body{
+    background-image: url(images/stylish.webp);
+    background-repeat: repeat;
+    background-color: #C48F7F;
+    color:#4e5d74;
+    font-family: 'Tenor Sans';
+    font-size: 16px;
+}
+
+.banner{
+    background-image: url(images/bannerflowerpalepink.jpg);
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+.title-big{
+    font-size: 98px;
+    color: #4e5d74;
+}
+
+.header{
+    max-width:100%;
+    background-color: #C48F7F;
+}
+
+header h1, h2, h3{
+    text-align: center;
+}
+
+.textbox{
+    background-color: #F4DDD5;
+    color: #4e5d74;
+    justify: center;
+}
+
+h3{
+  font-size: 60px;
+  font-family: 'Tangerine';
+}
+
+h1{
+    color:  #181A18;
+    font-family: 'Tangerine';
+    font-size: 90.44px;
+    line-height: 25px;
+}
+
+header, section{
+  padding: 30px;
+  margin: 30px;
+  background-color: #F4DDD5;
+  border: 8px solid white;
+}
+
+footer{
+  padding: 25px;
+  background-color: #C48F7F;
+  border-top: 8px solid white;
+  text-align: center;
+}
+/*img{
+  height: 600px;
+}
+
+ul, ol{
+  margin: 15px, 0;
+}*/
+
+p{
+  margin: 15px 0;
+}
+
+h2{
+  font-size: 18px;
+  text-align: center;
+}
+h1, h2, h3 {
+  font-weight: normal;
+  margin-bottom: 50px;
+}
+
+.footer{
+  background-color: #C48F7F;
+}
+
+a {
+  text-decoration: none;
+  color: #3D3D3D;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
