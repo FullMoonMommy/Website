@@ -37,6 +37,23 @@ header h1, h2, h3, h4{
     text-align: center;
 }
 
+h1, h2, h3{
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+h1{
+    color:  #181A18;
+    font-family: 'Tangerine';
+    font-size: 90.44px;
+    line-height: 25px;
+}
+
+h2{
+    font-size: 18px;
+    text-align: center;
+}
+
 .textbox{
     background-color: #F4DDD5;
     color: #4e5d74;
@@ -45,34 +62,21 @@ header h1, h2, h3, h4{
 }
 
 h3{
-  font-size: 60px;
-  font-family: 'Tangerine';
-}
-.img{
-  float: right;
-  margin-left: 1px;
-  margin-top: 40px;
-}
-h1{
-    color:  #181A18;
+    font-size: 60px;
     font-family: 'Tangerine';
-    font-size: 90.44px;
-    line-height: 25px;
+}
+
+p{
+    margin: 15px 0;
 }
 
 header, section{
-  padding: 30px;
-  margin: 30px;
-  background-color: #F4DDD5;
-  border: 8px solid white;
+    padding: 30px;
+    margin: 30px;
+    background-color: #F4DDD5;
+    border: 8px solid white;
 }
 
-footer{
-  padding: 25px;
-  background-color: #C48F7F;
-  border-top: 8px solid white;
-  text-align: center;
-}
 /*img{
   height: 600px;
 }
@@ -81,29 +85,23 @@ ul, ol{
   margin: 15px, 0;
 }*/
 
-p{
-  margin: 15px 0;
-}
-
-h2{
-  font-size: 18px;
-  text-align: center;
-}
-h1, h2, h3 {
-  font-weight: normal;
-  margin-bottom: 50px;
+footer{
+    padding: 25px;
+    background-color: #C48F7F;
+    border-top: 8px solid white;
+    text-align: center;
 }
 
 .footer{
-  background-color: #C48F7F;
+    background-color: #C48F7F;
 }
 
 a {
-  text-decoration: none;
-  color: #3D3D3D;
-  font-weight: bold;
+    text-decoration: none;
+    color: #3D3D3D;
+    font-weight: bold;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
