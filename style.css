@@ -67,12 +67,15 @@ h3{
 }
 
 p{
-    margin: 15px 0;
+    margin: 25px;
 }
 
 header, section{
     padding: 30px;
-    margin: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     background-color: #F4DDD5;
     border: 8px solid white;
 }
