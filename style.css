@@ -57,7 +57,7 @@ h2{
 .textbox{
     background-color: #F4DDD5;
     color: #4e5d74;
-    justify: center;
+    text-align: center;
     text-decoration: underline;
 }
 
